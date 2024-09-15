@@ -27,8 +27,11 @@ We welcome contributions from developers of all skill levels! Here's how you can
 Fork the repository
 
 -- Create a new branch (git checkout -b feature/AmazingFeature)
+
 -- Commit your changes (git commit -m 'Add some AmazingFeature')
+
 -- Push to the branch (git push origin feature/AmazingFeature)
+
 -- Open a Pull Request
 
 Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests
