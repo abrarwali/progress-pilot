@@ -25,6 +25,7 @@ Progress pilot is an open-source Java application designed to help individuals a
 We welcome contributions from developers of all skill levels! Here's how you can help:
 
 Fork the repository
+
 -- Create a new branch (git checkout -b feature/AmazingFeature)
 -- Commit your changes (git commit -m 'Add some AmazingFeature')
 -- Push to the branch (git push origin feature/AmazingFeature)
